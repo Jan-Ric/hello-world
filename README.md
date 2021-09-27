@@ -2,12 +2,7 @@
 
 Good Day!
 
-This is my first repository.
+I'm Jan Ric Hogat, 19 years of age and I'm such a fond of doing hands-on projects.
+Also, I'm interested in this platform as it will allow me to learn more about computer programming with the help of other programmers and developers
 
-I'm Jan Ric Hogat, 19 years of age.
-I'm currently living in Pililla, Rizal.
-I'm such a fond of technology and hands-on projects.
-
-My goal is to learn this code hosting platform by myself.
-
-Thank you for reading.
+That's all and thank you for reading my first repository.
