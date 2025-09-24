@@ -2,8 +2,6 @@
 
 Good Day!
 
-This is my first repository.
-
 I'm Jan Ric Hogat, an aspiring ECE license holder and recent graduate with a passion for AI and Data Science.
 I created this repository as my very first step into the world of programming and collaboration.
 Right now, I’m on a journey to become an AI Solutions Architect.
